@@ -1,0 +1,21 @@
+﻿Build started 28-11-2020 09:14:11.
+     1>Project "D:\Materials\IITG_sem1\SP\SP assignments\204101024_04\204101024_K_means\K_means\K_means.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\K_means.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\K_means.unsuccessfulbuild".
+         Touching "Debug\K_means.lastbuildstate".
+     1>Done Building Project "D:\Materials\IITG_sem1\SP\SP assignments\204101024_04\204101024_K_means\K_means\K_means.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

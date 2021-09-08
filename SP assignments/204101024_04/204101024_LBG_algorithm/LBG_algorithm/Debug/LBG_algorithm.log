@@ -1,0 +1,21 @@
+﻿Build started 28-11-2020 09:13:54.
+     1>Project "D:\Materials\IITG_sem1\SP\SP assignments\204101024_04\204101024_LBG_algorithm\LBG_algorithm\LBG_algorithm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LBG_algorithm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\LBG_algorithm.unsuccessfulbuild".
+         Touching "Debug\LBG_algorithm.lastbuildstate".
+     1>Done Building Project "D:\Materials\IITG_sem1\SP\SP assignments\204101024_04\204101024_LBG_algorithm\LBG_algorithm\LBG_algorithm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12

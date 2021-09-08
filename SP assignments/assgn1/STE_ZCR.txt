@@ -1,0 +1,6 @@
+average STE for fricatives_sh is: 44395071
+ZCR value is 77
+average STE for silence is: 332
+ZCR value is 93
+average STE for vowel is: 68208170
+ZCR value is 44

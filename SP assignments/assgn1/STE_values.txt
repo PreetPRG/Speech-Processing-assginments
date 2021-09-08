@@ -1,0 +1,83 @@
+For sample no: 0 STE for silence is: 771
+For sample no: 1 STE for silence is: 397
+For sample no: 2 STE for silence is: 309
+For sample no: 3 STE for silence is: 241
+For sample no: 4 STE for silence is: 328
+For sample no: 5 STE for silence is: 218
+For sample no: 6 STE for silence is: 195
+For sample no: 7 STE for silence is: 119
+For sample no: 8 STE for silence is: 136
+For sample no: 9 STE for silence is: 175
+For sample no: 10 STE for silence is: 154
+For sample no: 11 STE for silence is: 197
+For sample no: 12 STE for silence is: 453
+For sample no: 13 STE for silence is: 544
+For sample no: 14 STE for silence is: 403
+For sample no: 15 STE for silence is: 298
+For sample no: 16 STE for silence is: 276
+For sample no: 17 STE for silence is: 314
+For sample no: 18 STE for silence is: 509
+For sample no: 19 STE for silence is: 692
+For sample no: 20 STE for silence is: 557
+For sample no: 21 STE for silence is: 530
+For sample no: 22 STE for silence is: 312
+For sample no: 23 STE for silence is: 307
+For sample no: 24 STE for silence is: 207
+average STE for silence is: 332
+ZCR value is 417
+For sample no: 0 STE for vowel aa is: 31293183
+For sample no: 1 STE for vowel aa is: 192013829
+For sample no: 2 STE for vowel aa is: 131710444
+For sample no: 3 STE for vowel aa is: 133185486
+For sample no: 4 STE for vowel aa is: 138555900
+For sample no: 5 STE for vowel aa is: 132813664
+For sample no: 6 STE for vowel aa is: 113293425
+For sample no: 7 STE for vowel aa is: 101702738
+For sample no: 8 STE for vowel aa is: 107330996
+For sample no: 9 STE for vowel aa is: 89003028
+For sample no: 10 STE for vowel aa is: 64331777
+For sample no: 11 STE for vowel aa is: 50456020
+For sample no: 12 STE for vowel aa is: 84486464
+For sample no: 13 STE for vowel aa is: 79245646
+For sample no: 14 STE for vowel aa is: 73880705
+For sample no: 15 STE for vowel aa is: 61158007
+For sample no: 16 STE for vowel aa is: 63266686
+For sample no: 17 STE for vowel aa is: 56762880
+For sample no: 18 STE for vowel aa is: 47678496
+For sample no: 19 STE for vowel aa is: 56774922
+For sample no: 20 STE for vowel aa is: 44657978
+For sample no: 21 STE for vowel aa is: 43384160
+For sample no: 22 STE for vowel aa is: 27937189
+For sample no: 23 STE for vowel aa is: 37483979
+For sample no: 24 STE for vowel aa is: 28276208
+For sample no: 25 STE for vowel aa is: 30190249
+For sample no: 26 STE for vowel aa is: 10629343
+For sample no: 27 STE for vowel aa is: 9888054
+For sample no: 28 STE for vowel aa is: 4853656
+average STE for vowel is: 68208170
+ZCR value is 371
+For sample no: 0 STE for fricative sh is: 961270
+For sample no: 1 STE for fricative sh is: 4692139
+For sample no: 2 STE for fricative sh is: 17760824
+For sample no: 3 STE for fricative sh is: 38135745
+For sample no: 4 STE for fricative sh is: 59659842
+For sample no: 5 STE for fricative sh is: 92295666
+For sample no: 6 STE for fricative sh is: 103980297
+For sample no: 7 STE for fricative sh is: 120525238
+For sample no: 8 STE for fricative sh is: 84253559
+For sample no: 9 STE for fricative sh is: 46237689
+For sample no: 10 STE for fricative sh is: 12967409
+For sample no: 11 STE for fricative sh is: 28217604
+For sample no: 12 STE for fricative sh is: 87200129
+For sample no: 13 STE for fricative sh is: 80866927
+For sample no: 14 STE for fricative sh is: 43568210
+For sample no: 15 STE for fricative sh is: 45948576
+For sample no: 16 STE for fricative sh is: 38530413
+For sample no: 17 STE for fricative sh is: 32424142
+For sample no: 18 STE for fricative sh is: 22015821
+For sample no: 19 STE for fricative sh is: 27330115
+For sample no: 20 STE for fricative sh is: 26692017
+For sample no: 21 STE for fricative sh is: 29921457
+For sample no: 22 STE for fricative sh is: 21296618
+average STE for fricative is: 44395071
+ZCR value is 411

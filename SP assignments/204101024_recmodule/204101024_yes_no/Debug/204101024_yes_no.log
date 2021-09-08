@@ -1,0 +1,21 @@
+﻿Build started 01-01-2021 12:18:53.
+     1>Project "D:\Materials\IITG_sem1\SP\SP assignments\204101024_recmodule\204101024_yes_no\204101024_yes_no.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\204101024_yes_no.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\204101024_yes_no.unsuccessfulbuild".
+         Touching "Debug\204101024_yes_no.lastbuildstate".
+     1>Done Building Project "D:\Materials\IITG_sem1\SP\SP assignments\204101024_recmodule\204101024_yes_no\204101024_yes_no.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
